@@ -27,6 +27,7 @@ public class DB {
 		try {
 			p=new Properties();
 			p.load(DB.class.getResourceAsStream("db.properties"));
+			System.out.println();
 			/*fis=new FileInputStream("db.properties");
 			p.load(fis);*/
 			driver=p.getProperty("driver");
