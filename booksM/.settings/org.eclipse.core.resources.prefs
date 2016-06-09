@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebRoot/findPass.js=UTF-8
+encoding//WebRoot/login.js=UTF-8
+encoding//WebRoot/register.js=UTF-8
+encoding//WebRoot/view/borrowBook.js=UTF-8
+encoding//WebRoot/view/returnBook.js=UTF-8
+encoding//src/booksM/com/booksM/common/AuthCode.java=UTF-8
+encoding//src/booksM/com/booksM/servlet/AuthCodeServlet.java=UTF-8
